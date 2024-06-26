@@ -1,7 +1,3 @@
-# Create a python script that encrypts and decrypts text using the quantum safe encryption algorithm.
-# The script should take a text file as input and output the encrypted and decrypted text to a new file.
-# The script should be able to handle text files of any size.
-
 import sys
 import os
 import random
